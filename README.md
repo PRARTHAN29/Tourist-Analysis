@@ -59,7 +59,7 @@ Pie Charts:
 🎯 Goal
 
 => To support Tourism Mrket expansion by identifying underrepresented areas and analyzing current global store coverage.
-
+---
 
 ## Insight
 
@@ -69,8 +69,10 @@ Pie Charts:
 
     => The USA has the highest number of tourists, whereas Canada and the UK contribute more significantly to overall profit, indicating higher spending per tourist from these region.
 
+---
 
 ## Recommandation
-   =>Focus on premium offerings, partnerships, and upselling strategies in luxury segments to maximize revenue.
-   =>Increase marketing investment and expand services in France to further capitalize on this high-performing market.
-   =>Improve monetization strategies in the USA (pricing, packages, upselling) and Target high-value tourists from Canada and the UK with personalized offers
+
+    =>Focus on premium offerings, partnerships, and upselling strategies in luxury segments to maximize revenue.
+    =>Increase marketing investment and expand services in France to further capitalize on this high-performing market.
+    =>Improve monetization strategies in the USA (pricing, packages, upselling) and Target high-value tourists from Canada and the UK with personalized offers
