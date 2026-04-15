@@ -59,3 +59,12 @@ Pie Charts:
 🎯 Goal
 
 => To support Tourism Mrket expansion by identifying underrepresented areas and analyzing current global store coverage.
+
+
+## Insight
+
+    => More than 60% of total spending comes from 5-star hotels, indicating a strong preference for luxury accommodations among tourists.
+
+    => France is the most profitable tourist destination, attracting a high number of visitors while also generating substantial profit.
+
+    => The USA has the highest number of tourists, whereas Canada and the UK contribute more significantly to overall profit, indicating higher spending per tourist from these regi
